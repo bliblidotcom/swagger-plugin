@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/bliblidotcom/swagger-plugin.svg?branch=master)](https://travis-ci.org/bliblidotcom/swagger-plugin)
+
 Spring Boot Swagger Plugin
 --------------------------
 
