@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.blibli.oss.swagger.plugin.SwaggerRxJavaConfiguration,\
+com.blibli.oss.swagger.plugin.SwaggerWebConfiguration,\
+com.blibli.oss.swagger.SwaggerWebAutoConfigurer,\
+com.blibli.oss.swagger.SwaggerAutoConfigurer
