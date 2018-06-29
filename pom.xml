@@ -4,7 +4,7 @@
 
   <groupId>com.blibli.oss</groupId>
   <artifactId>swagger-plugin</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.2</version>
   <packaging>jar</packaging>
 
   <name>swagger-plugin</name>
@@ -13,7 +13,7 @@
   <scm>
     <connection>scm:git:git@github.com:bliblidotcom/swagger-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:bliblidotcom/swagger-plugin.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>swagger-plugin-0.0.2</tag>
   </scm>
 
   <parent>
